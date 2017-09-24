@@ -26,7 +26,7 @@ test_requirements = [
 ]
 
 setup(
-    name='joes_pizzeria',
+    name='anyblok_joes_pizzeria',
     version='0.1.0',
     description="Sale application based on REA patterns",
     long_description=readme + '\n\n' + changelog,
